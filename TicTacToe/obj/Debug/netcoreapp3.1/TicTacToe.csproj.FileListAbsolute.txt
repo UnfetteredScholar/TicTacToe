@@ -1,0 +1,16 @@
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.Form1.resources
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.Properties.Resources.resources
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.GenerateResource.cache
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\HI\Documents\C#\UI Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
